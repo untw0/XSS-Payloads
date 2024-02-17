@@ -38,8 +38,8 @@ while IFS= read -r payload; do
 
     # Check the response code and add appropriate marking
     if [ "$response" == "200" ]; then
-        echo "Payload: $payload [200]"
+        echo "Payload: $payload [ON 200]"
     else
-        echo "Payload: $payload [404]"
+        echo "Payload: $payload [ERROR 404]"
     fi
 done < "xss.txt"

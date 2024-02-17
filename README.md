@@ -4,7 +4,7 @@ XSS PAYLOAD is a simple shell tool developed to test Cross-Site Scripting (XSS) 
 
 ## How It Works
 
-XSS Tester uses a list of known payloads to exploit XSS vulnerabilities. It injects these payloads into URL parameters and checks if the web application is vulnerable to XSS based on server responses.
+XSS PAYLOAD uses a list of known payloads to exploit XSS vulnerabilities. It injects these payloads into URL parameters and checks if the web application is vulnerable to XSS based on server responses.
 
 ## How to Use
 

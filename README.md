@@ -1,6 +1,6 @@
-# XSS SCAN
+# XSS PAYLOAD
 
-XSS SCAN is a simple shell tool developed to test Cross-Site Scripting (XSS) vulnerabilities on websites. This tool is useful for information security professionals, security researchers, and ethical hacking enthusiasts who want to identify and exploit XSS vulnerabilities in their web applications.
+XSS PAYLOAD is a simple shell tool developed to test Cross-Site Scripting (XSS) vulnerabilities on websites. This tool is useful for information security professionals, security researchers, and ethical hacking enthusiasts who want to identify and exploit XSS vulnerabilities in their web applications.
 
 ## How It Works
 

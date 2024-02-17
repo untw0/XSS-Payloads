@@ -22,7 +22,13 @@ cd xss-scan
 
 3. Ensure that the `xss.txt` file is present and contains a comprehensive list of XSS payloads.
 
-4. Run the script by providing the URL of the site you want to test:
+4. To run the .sh file you will have to do the following:
+
+```bash
+chmod +x xsscan.sh
+```
+ 
+5. Run the script by providing the URL of the site you want to test:
 
 ```bash
 ./xsscan.sh https://example.com/page?param=

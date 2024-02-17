@@ -36,7 +36,7 @@ This project is in the testing phase and is subject to ongoing improvements. The
 - Support for other types of web vulnerabilities.
 - Improvements in usability and interface.
 
-Stay tuned for future updates!
+Stay tuned for future updates on my social midia Instagram and Twitter: @untw0
 
 ## Contributions
 

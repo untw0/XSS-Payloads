@@ -7,7 +7,7 @@
 
 # Check if the number of arguments is correct
 if [ $# -ne 1 ]; then
-    echo "Usage: $0 <URL>"
+    echo "Usage: $0 https://example.com/page?param="
     exit 1
 fi
 

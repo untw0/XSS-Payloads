@@ -11,7 +11,7 @@ XSS PAYLOAD uses a list of known payloads to exploit XSS vulnerabilities. It inj
 1. Clone the repository to your local environment:
 
 ```bash
-git clone https://github.com/unwt0/xss-scan.git
+git clone https://github.com/untw0/xss-scan
 ```
 
 2. Navigate to the project directory:
